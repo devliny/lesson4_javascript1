@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+02/10/2017
 
 ### Student Name:  
-(First and Last Name)
+Devlin Yorker
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The assignment taught me how to use Javascript commands to create a simple expense calculation program.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://devliny.github.io/lesson4_javascript1/Lesson4_ExpenseCalculator/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to include Javascript in HTML
+2. I learned some entry-level Javascript syntax
+3. I learned how to construct a simple program using Javascript
